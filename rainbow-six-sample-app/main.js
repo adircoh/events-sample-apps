@@ -11,7 +11,8 @@ var g_interestedInFeatures = [
   'kill',
   'death',
   'match_info',
-  'me'
+  'me',
+  "defuser"
 ];
 
 var onErrorListener,onInfoUpdates2Listener,	onNewEventsListener;
